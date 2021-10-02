@@ -1,0 +1,2 @@
+# Nambeware-Data-Analysis-with-R
+We use GLM to perform EDA and fit a logistic regression to this data with price as our dependent variable. The glm function in R is used to obtain point estimates and confidence intervals for the model parameters. We use difference between Null and Residual Deviance and AIC to assess the models. The initial Residual vs Fitted graph shows clustering due to outliers. On removing them, we get a better model with lower AIC and even larger difference between Null and Residual deviances
